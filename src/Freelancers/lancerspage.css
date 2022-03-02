@@ -1,0 +1,63 @@
+.head1{
+    width: 1128px;
+    height: 164px;
+    background-color: blueviolet;
+    margin: 154px;
+    border-radius: 27px;
+}
+.head2{
+    color: red;
+    margin: 0 27px;
+    padding-top: 10px;
+    font-size: 14px;
+    
+}
+.head3{
+    color: white;
+    width: 299px;
+    height: 40px;
+    padding: 0 23px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.head4{
+    padding: 2px 51px;
+    margin: -26px;
+    color: white;
+    /* width: 379px;
+    height: 48px; */
+}
+.button{
+    padding: 5px 28px;
+    float: right;
+    margin-top: -76px;
+    margin: -61px -84px;
+    /* text-transform: none; */
+   
+   
+}
+.search-container{
+    padding-top: 118px;
+    margin: 0 10px;
+}
+.rating{
+    color: black;
+    font-weight: bold;
+    float: right;
+    margin: -92px 422px;
+    padding: 8px 0px 21px;
+}
+.sortby{
+    color: black;
+    font-weight: bold;
+    float: right;
+    margin: -84px 123px;
+    height: 5%;
+}
+.allfreelancers{
+    color: black;
+    margin: 248px;
+    font-weight: bold;
+    margin-left: 152px;
+    font-size: 32px;
+}

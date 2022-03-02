@@ -1,0 +1,7 @@
+.cardscomponents{
+    padding-top: 100px;
+  
+}
+.cardscomponents:hover{
+    transform: translate();
+}

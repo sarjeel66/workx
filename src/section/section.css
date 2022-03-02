@@ -1,0 +1,18 @@
+.section1{
+    height: 387px;
+    width: 1440px;
+    background-color: #F4F8FA;
+    text-align: center;
+    background-image: url('../assets/bg.png');
+   
+}
+.textside{
+   height: 40px;
+   width: 478px;
+   padding: 10px;
+   /* background-color: red; */
+   padding: 139px 53px 44px 90px;
+   font-weight: bold;
+   font-family: sans-serif;
+   
+}

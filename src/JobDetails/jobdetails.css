@@ -1,0 +1,21 @@
+.main-container{
+    width: 776px;
+    height: 1100px;
+    /* background-color: gray; */
+    margin: auto;
+}
+
+.hide1{
+    /* background-color: blueviolet; */
+    width: 776px;
+    height: 48px;
+    margin: auto;
+    margin: 0px 47px;
+}
+.dheetpan{
+    background-color: gray;
+    height: 514px;
+    width: 264px;
+    float: right;
+    margin: -1066px 56px;
+}

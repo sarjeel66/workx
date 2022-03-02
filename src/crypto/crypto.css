@@ -1,0 +1,23 @@
+.crypto{
+    background-color: white;
+    height: 55px;
+    color: #1C2535;
+    width: 341px;
+    height: 56px;
+    font-size: 15px;  
+    display: inline; 
+}
+.crypto p{
+    color: black;
+    display: inline;
+    font-weight: bold;
+}
+.crypto3{
+    display: inline;
+    font-family: 'Source Sans Pro';
+}
+.cryptocards{
+    margin: 50px;
+    height: 412px;
+    width: 264px;
+}

@@ -1,0 +1,19 @@
+.gigstext{
+    color: black;
+}
+.star1{
+    margin: 0 150px;
+    font-size: 10px;
+    color: #FEC21B;
+    size: 5px;
+}
+.section1{
+    display: flex;
+    margin: 2px 128px;
+}
+.cards4{
+    margin: 50px;
+    height: 412px;
+    width: 264px;
+}
+
